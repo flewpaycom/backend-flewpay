@@ -1,7 +1,7 @@
 # 🚀 Control de Versiones 🚀
 
 ## **Versiones Alfa (Alpha)**  
-Copyfeat(alpha): implementar módulo base de autenticación  
+feat(alpha): implementar módulo base de autenticación  
 
 - **Versión**: `0.1.0-alpha.1`  
 - **Estado**: En desarrollo inicial, no estable  
@@ -9,7 +9,7 @@ Copyfeat(alpha): implementar módulo base de autenticación
 ---
 
 ## **Versiones Beta**  
-Copyfeat(beta): finalizar flujo completo de registro  
+feat(beta): finalizar flujo completo de registro  
 
 - **Versión**: `0.1.0-beta.1`  
 - **Estado**: Funcional pero en pruebas  
@@ -17,7 +17,7 @@ Copyfeat(beta): finalizar flujo completo de registro
 ---
 
 ## **Release Candidate (RC)**  
-Copyfix(rc): resolver problemas de rendimiento  
+fix(rc): resolver problemas de rendimiento  
 
 - **Versión**: `1.0.0-rc.1`  
 - **Estado**: Casi listo para producción  
@@ -25,7 +25,7 @@ Copyfix(rc): resolver problemas de rendimiento
 ---
 
 ## **Producción** 😄  
-Copyfeat: lanzar versión estable 1.0.0  
+feat: lanzar versión estable 1.0.0  
 
 - **Versión**: `1.0.0`  
 - **Estado**: Versión estable y funcional  
